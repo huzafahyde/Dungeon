@@ -1,9 +1,9 @@
 package com.mygdx.dungeongame.entities;
 
-public class Player {
+public class Player extends Entity {
 
 	public Player() {
-		// TODO Auto-generated constructor stub
+		// TODO Auto-generated constructor stub 
 	}
 
 }

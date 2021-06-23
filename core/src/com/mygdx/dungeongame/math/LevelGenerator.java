@@ -679,7 +679,6 @@ public class LevelGenerator {
 		
 	}
 
-	
 	public void dispose() {
 		wall.dispose();
 		floor.dispose();
