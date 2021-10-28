@@ -16,6 +16,10 @@ public class Entity {
 		this.y = y;
 	}
 
+	
+	public void move(int x, int y) {
+		setPos(getX() + x, getY() + y); 
+	}
 
 	public Sprite getSprite() {
 		return sprite;
